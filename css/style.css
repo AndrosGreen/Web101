@@ -70,7 +70,7 @@ h4 {
 
 /* header */
 .site-header.inicio {
-    background-image: url(/img/header.jpg);
+    background-image: url(../img/header.jpg);
     background-position: center center;
     background-size: cover;
     height: 100vh;
@@ -167,7 +167,7 @@ h4 {
 
 /** contacto home **/
 .imagen-contacto {
-    background-image: url("/img/encuentra.jpg");
+    background-image: url("../img/encuentra.jpg");
     background-position: center center;
     background-size: cover;
     height: 40rem;
